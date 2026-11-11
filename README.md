@@ -31,7 +31,7 @@ Abhishek Uppar
 ## Screenshots
 
 ### Program Input
-![Input](screenshots/input.png)
+![Input](screenshots/Input.png)
 
 ### Program Output
-![Output](screenshots/output.png)
+![Output](screenshots/Output.png)
